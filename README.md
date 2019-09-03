@@ -1,2 +1,2 @@
 # HTML-Playground-09
-htnl
+HTML/CSS/JavaScript for September course
